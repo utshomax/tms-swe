@@ -1,13 +1,13 @@
 
 
 var firebaseConfig = {
-    apiKey: "AIzaSyDniEFNhNnRYzsOCYCAjuAMfl-_sD-_f0A",
-    authDomain: "salman-4747c.firebaseapp.com",
-    databaseURL: "https://salman-4747c-default-rtdb.asia-southeast1.firebasedatabase.app",
-    projectId: "salman-4747c",
-    storageBucket: "salman-4747c.appspot.com",
-    messagingSenderId: "159704710699",
-    appId: "1:159704710699:web:4e0845a8c8c72a663eb46e"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
   };
   firebase.initializeApp(firebaseConfig);
   
